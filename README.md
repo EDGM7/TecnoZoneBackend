@@ -32,4 +32,4 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 4. Sube tus cambios a la rama (`git push origin feature/nueva-funcionalidad`).
 5. Crea un nuevo Pull Request.
 
-Proyecto Desarrollado Por Elias Guillen Estudiante de Pregado Universidad Valle del Momboy
+Proyecto Desarrollado Por Elias Guillen Estudiante de  Universidad Valle del Momboy
